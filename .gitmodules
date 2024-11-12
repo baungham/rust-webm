@@ -1,4 +1,4 @@
 [submodule "src/sys/libwebm"]
 	path = src/sys/libwebm
 	# url = https://chromium.googlesource.com/webm/libwebm
-	url = https://github.com/webmproject/libwebm
+	url = https://github.com/baungham/libwebm
